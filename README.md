@@ -15,7 +15,7 @@
 
 ## 📑 Sobre
 
-O projeto é um site de **Coletas** de materiais que foi criado durante a Semana **Next Level Week** da Rocketseat.
+O projeto é um site de **Coleta** de resíduos, que foi criado durante a Semana **Next Level Week** da Rocketseat.
 
 ---
 
