@@ -2,8 +2,8 @@
     <img width="300px" src="https://raw.githubusercontent.com/DanielObara/NLW-1.0/d7e57f5e53d563f28cefeb078786c6e522fde40a/.github/logo.svg">
 </h1>
 
+# Página inicial
 <h1>
-Página inicial
 <img src="https://uploaddeimagens.com.br/images/002/696/205/original/Pagina_inicial.png?1591614728">
 </h1>
 
